@@ -1,3 +1,3 @@
 exports.game = {
-  wordBank : ["", "", "", "", ""]
+  wordBank : ["californication", "stairway to heaven", "sweet home alabama", "welcome to the jungle", "wayward son"]
 };
