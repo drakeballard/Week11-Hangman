@@ -1,13 +1,10 @@
 
+# Hangman using Node.JS
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=5DbQqReE4WU&feature=youtu.be)
+### Building a Hangman app and empower it with Javascript constructors. This Application is entirely run with Node.js from the console.
 
-
-# Hangman
-
-### Build a Hangman app and empower it with Javascript constructors. Running entirely with Node.js from the console.
-
-![Hangman] (images/hangman.gif)
+###Here is a Youtube link to see the application in action:
+[Hangman-Node.js](https://www.youtube.com/watch?v=5DbQqReE4WU&list=PL6zIj07mJgXBpp0MQjWg4q-sKgRSvIWMY&index=1)
 
 ### Design Notes
 	* Main.js which launches the app
